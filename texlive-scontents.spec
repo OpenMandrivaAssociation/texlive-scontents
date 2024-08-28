@@ -1,6 +1,6 @@
 Name:		texlive-scontents
-Version:	62902
-Release:	2
+Version:	71533
+Release:	1
 Summary:	Stores LaTeX contents in memory or files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scontents
