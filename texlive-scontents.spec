@@ -3,7 +3,7 @@ Version:	71533
 Release:	1
 Summary:	Stores LaTeX contents in memory or files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scontents
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scontents
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scontents.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scontents.doc.r%{version}.tar.xz
